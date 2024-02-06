@@ -85,11 +85,52 @@ const MENU = [
       },
     ],
   },
+  // {
+  //   title: "Clássicos",
+  //   data: [
+  //     {
+  //       id: "5",
+  //       title: "Classic Burger",
+  //       price: 12.0,
+  //       description: "Um hambúrguer clássico com carne suculenta, queijo, alface, tomate e maionese.",
+  //       cover: "url_imagem_classic_burger.jpg",
+  //       thumbnail: "url_miniatura_classic_burger.jpg",
+  //       ingredients: ["carne de boi", "queijo cheddar", "alface", "tomate", "maionese", "pão de hambúrguer"]
+  //     },
+  //     {
+  //       "id": "6",
+  //       title: "Vegetarian Burger",
+  //       price: 10.0,
+  //       description: "Um hambúrguer vegetariano com base de grão-de-bico, acompanhado de queijo, alface e tomate.",
+  //       cover: "url_imagem_vegetarian_burger.jpg",
+  //       thumbnail: "url_miniatura_vegetarian_burger.jpg",
+  //       ingredients: ["grão-de-bico", "queijo suíço", "alface", "tomate", "maionese vegana", "pão integral"]
+  //     },
+  //     {
+  //       "id": "7",
+  //       title: "BBQ Bacon Burger",
+  //       price: 14.0,
+  //       description: "Um hambúrguer suculento com bacon crocante, queijo defumado, alface e molho barbecue.",
+  //       cover: "url_imagem_bbq_bacon_burger.jpg",
+  //       thumbnail: "url_miniatura_bbq_bacon_burger.jpg",
+  //       ingredients: ["carne de boi", "bacon", "queijo defumado", "alface", "molho barbecue", "pão de hambúrguer"]
+  //     },
+  //     {
+  //       "id": "8",
+  //       title: "Chicken Avocado Burger",
+  //       price: 13.0,
+  //       description: "Um hambúrguer de frango grelhado com abacate, alface, tomate e maionese especial.",
+  //       cover: "url_imagem_chicken_avocado_burger.jpg",
+  //       thumbnail: "url_miniatura_chicken_avocado_burger.jpg",
+  //       ingredients: ["peito de frango", "abacate", "alface", "tomate", "maionese de ervas", "pão de hambúrguer integral"]
+  //     }
+  //   ]
+  // },
   {
     title: "Sobremesa",
     data: [
       {
-        id: "5",
+        id: "9",
         title: "Sorvete com Brownie",
         price: 18.9,
         description:
@@ -103,7 +144,7 @@ const MENU = [
         ],
       },
       {
-        id: "6",
+        id: "10",
         title: "Cupcake",
         price: 22.9,
         description:
@@ -118,7 +159,7 @@ const MENU = [
     title: "Bebidas",
     data: [
       {
-        id: "7",
+        id: "11",
         title: "Hmmm, coquinha!",
         price: 6.9,
         thumbnail: require("../../assets/products/thumbnail/7.png"),
